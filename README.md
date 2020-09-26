@@ -1,0 +1,1 @@
+# hover-clip-path-imagen-effect
